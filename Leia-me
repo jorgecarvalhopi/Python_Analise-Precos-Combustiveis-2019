@@ -1,3 +1,10 @@
-Olá! Tudo bem?
-Esse é um projeto de análise que desenvolvi com o objetivo de criar um modelo preditivo que fosse capaz de auxiliar a prever o valor dos combustíveis.
-Projeto ainda está em desenvolvimento e irá receber novas melhorias muito em breve. Além da criação do modelo preditivo proposto.
+Projeto de análise da evolução do preço de compra e venda da Gasolina Comum no Brasil de 2017 a 2020.
+
+Por conta do tamanho dos dados não consegui anexá-los nesse repositório. Segue link de onde os dados originais se encontram:
+https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp
+
+O projeto está dividido em duas partes majoritárias:
+1 - Análise Exploratória dos dados (Completa 03/09/2023)
+2 - Criação de um Modelo Preditivo (Em Progresso)
+
+Demais informações todas anexadas ao arquivo analise_gasolina.ipynb desse repositório. Espero que seja útil para você :)
